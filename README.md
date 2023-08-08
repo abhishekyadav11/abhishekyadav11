@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Own Project**
 
-- 🌱 I’m currently learning **HTML , CSS , JavaScript**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **C , C++ & SQL**
 
