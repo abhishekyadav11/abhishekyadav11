@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **Own Project**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C , C++ , Java & SQL**
+- 💬 Ask me about **C , C++ ,Angular, React &SQL**
 
 - 📫 How to reach me **abhisyadav11@gmail.com**
 
