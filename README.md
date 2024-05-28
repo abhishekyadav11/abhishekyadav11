@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **C , C++ ,Angular, React &SQL**
+- 💬 Ask me about **C , C++ ,Angular, React & SQL**
 
 - 📫 How to reach me **abhisyadav11@gmail.com**
 
